@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "AdfSagarKotteGithubDemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
