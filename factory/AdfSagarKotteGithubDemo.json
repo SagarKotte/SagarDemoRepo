@@ -1,0 +1,9 @@
+{
+	"name": "AdfSagarKotteGithubDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3937dab-bdd1-4591-a5dd-fe04381d0bde",
+		"tenantId": "161b746f-8f63-4a07-a502-4e08900bc791"
+	}
+}
